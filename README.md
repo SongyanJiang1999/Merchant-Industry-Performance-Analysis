@@ -1,4 +1,4 @@
-# Merchant Industry Performance Analysis
+# Industry-Level Merchant Performance Analysis
 ## Project Overview
 
 This project analyzes merchant transaction performance across different industries to identify the key drivers behind low average transaction value.
